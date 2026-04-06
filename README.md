@@ -1,7 +1,7 @@
 # 👋 Ahoy! I'm Harish Kumar
 
 ## 🏴‍☠️ Currently on My Developer Journey
-- 💼 Software Developer @ **Greenbotz** (turning bugs into features since [year])
+- 💼 Software Developer @ **Greenbotz** (turning bugs into features since [2024])
 - 🎓 GUVI Alumni - From bootcamp to breaking prod!
 - 🐳 Docker enthusiast who containerizes everything (yes, even todo apps)
 - ⚛️ React developer by day, anime watcher by night
