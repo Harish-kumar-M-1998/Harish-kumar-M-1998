@@ -24,7 +24,7 @@ Open to collaborating on:
 
 ## ⚡ Fun Facts
 - 😄 Pronouns: **HE** (cause I'll never be HIM... Monkey D. Luffy 🏴‍☠️)
-- 🦐 Life lesson: Don't be a s(hr)imp - their heart is in their head
+- 🦐 Life lesson: Even if you’re just a krill named Krill, remember: you’re one in a krillion.
 - 🐛 I've made enough bugs to start my own zoo
 - ☕ Powered by coffee, fueled by curiosity, motivated by error messages
 
